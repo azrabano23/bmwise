@@ -1,5 +1,21 @@
 # BMWise
 
+Retail investors often rely on intuition or basic tools when making decisions about stock investments, leading to suboptimal results. There is a need for a data-driven system that can intelligently forecast stock prices, optimize portfolios, and simulate trading strategies using modern machine learning and financial modeling techniques. This is especially valuable for high-performance automobile stocks like BMW, where market trends can be volatile and complex to navigate.
+
+BMWise is a full-stack financial analysis tool that combines machine learning, time series forecasting, and quantitative finance to analyze, predict, and optimize investment decisions for BMW and similar automotive stocks.
+
+ "Over 90% of individual investors underperform the market over a 10-year period."
+— Source: Dalbar Inc., 2023 QAIB Report (Quantitative Analysis of Investor Behavior)
+
+Why This Matters for BMWise:
+This statistic highlights a critical gap: most retail investors lack the tools or discipline to outperform even basic index funds. BMWise addresses this issue by automating:
+
+- Data-driven forecasting
+- Portfolio optimization
+- Objective trading simulation
+
+It replaces guesswork with statistical modeling and machine learning, giving investors a better chance at consistent, risk-adjusted returns — especially in niche sectors like luxury automotive stocks.
+
 # What the Program Does:
 
 Data Loading and Preprocessing:
