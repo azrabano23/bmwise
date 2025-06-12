@@ -7,7 +7,6 @@ BMWise is a full-stack financial analysis tool that combines machine learning, t
  "Over 90% of individual investors underperform the market over a 10-year period."
 — Source: Dalbar Inc., 2023 QAIB Report (Quantitative Analysis of Investor Behavior)
 
-Why This Matters for BMWise:
 This statistic highlights a critical gap: most retail investors lack the tools or discipline to outperform even basic index funds. BMWise addresses this issue by automating:
 
 - Data-driven forecasting
